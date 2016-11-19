@@ -15,7 +15,7 @@ public class ex04_103051089 {
 		int n = sc.nextInt();
 		System.out.println("n!="+Jchan(n));
 	}
-	public static int Jchan(int a){		;
+	public static int Jchan(int a){
 		if(a==1){
 			return 1;
 		}else{
